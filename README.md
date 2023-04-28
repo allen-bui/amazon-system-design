@@ -2,20 +2,11 @@
 
 > This service will provide questions and answers when a product is selected. Questions can be ranked.
 
-## Related Projects
-
-  - https://github.com/the-purple-team/bruce-service
-  - https://github.com/the-purple-team/maddie-front-end-capstone
-  - https://github.com/the-purple-team/bradyService
-
 <!-- ## Table of Contents
 
 1. [Usage](#Usage)
 1. [Requirements](#requirements)
 1. [Development](#development) -->
-
-
-
 
 ## GET all questions per product
 ### endpoint
